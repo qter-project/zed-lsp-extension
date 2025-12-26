@@ -1,0 +1,4 @@
+name = "Q Language"
+grammar = "qter_q"
+path_suffixes = ["q"]
+first_line_pattern = "Puzzles"
