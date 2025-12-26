@@ -4,7 +4,7 @@ version = "0.1.0"
 schema_version = 1
 authors = ["Arhan Chaudhary <arhan.ch@gmail.com>"]
 description = "Q (and soon QAT) language support for Qter"
-repository = "https://github.com/qter-project/zed-lsp-extension"
+repository = "https://github.com/qter-project/zed-extension-qter"
 
 [grammars.qter_q]
 repository = "https://github.com/qter-project/tree-sitter-q"
